@@ -1,1 +1,0 @@
-write.table(tidy_summary, "tidy_data.txt", row.name = FALSE)
